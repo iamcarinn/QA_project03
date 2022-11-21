@@ -13,5 +13,5 @@
 |     |                       | **WEB Testing**                                                             |        |
 | 1   | «WEB-Testing_checklist» | Основные виды тестирования веб-приложений и их особенности.               | ✅     |
 |     |                       | **Dev Tools**                                                               |        |
-| 1   | «Results-devtools»    | Основные виды тестирования веб-приложений и их особенности.                 | ✅     |
+| 1   | «Results-devtools»    | Сделать тестовый набор в TestRail с названием «Chrome», добавить туда функциональные и ui тесты. Провести тестирование https://online.sber.insure/store/propertyins/ с помощью DevTools, отметьть статус прохождения тестов в TestRail. | ✅     |
 | 2   | «Devtools_content»    | Найти все Content-Type любых пяти элементов тестируемого сайта.             | ✅     |
