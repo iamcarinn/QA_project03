@@ -19,5 +19,5 @@
 |     | «Elements»            | Значения пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background). | ✅    |
 |     | «01.before» — до «02.after» — после | Отредактировать styles или любой атрибут этих элементов. | ✅   |
 |     | «03.performance» | Запись performance при прохождении одного из тест-кейсов. | ✅   |
-|     | «DevTools-Firefox»; | Страница с инструкцией в Notion «Тестирование web-приложений с помощью DevTools и Firefox dev». | ✅   |
-|     | папка «Notion»  | Запись performance при прохождении одного из тест-кейсов. | ✅   |
+|     | «DevTools-Firefox»; | Самое полезное и обязательное в инструментах DevTools и Firefox dev для целей тестирования. | ✅   |
+|     | папка «Notion»  | Страница с инструкцией в Notion «Тестирование web-приложений с помощью DevTools и Firefox dev». | ✅   |
