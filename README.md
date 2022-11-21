@@ -16,6 +16,6 @@
 |     | «Results-devtools»    | Сделать тестовый набор в TestRail с названием «Chrome», добавить туда функциональные и ui тесты. Провести тестирование https://online.sber.insure/store/propertyins/ с помощью DevTools, отметьть статус прохождения тестов в TestRail. Выгрузить результаты запусков тестов из TestRail. | ✅     |
 |     | «Devtools_content»    | Найти все Content-Type любых пяти элементов тестируемого сайта.             | ✅     |
 | **5** |                       | **Firefox dev**                                                               |        |
-|     | «Elements»            | Найти значения для любых пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background). | ✅    |
+|     | «Elements»            | Значения пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background). | ✅    |
 |     | «01.before» — до «02.after» — после | Отредактировать styles или любой атрибут этих элементов. Сделать скрины этих элементов до и после редактирования.  | ✅   |
 |     | «03.performance» |Сделать запись performance при прохождении одного из тест-кейсов | ✅   |
