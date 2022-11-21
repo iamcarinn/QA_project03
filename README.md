@@ -17,4 +17,4 @@
 |     | «Devtools_content»    | Найти все Content-Type любых пяти элементов тестируемого сайта.             | ✅     |
 | **5** |                       | **Firefox dev**                                                               |        |
 |     | «Elements»            | Найдите значения для любых пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background) | ✅     |
-|     | «01.before» — до, «02.after» — после | Найдите значения для любых пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background) | ✅     |
+|     | «01.before» — до «02.after» — после | Найдите значения для любых пяти элементов сайта https://online.sber.insure/store/propertyins/ (type, id, position, background) | ✅     |
