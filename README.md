@@ -2,6 +2,8 @@
 Архитектура WEB. Тестирование клиент-серверных систем
  ---
  
+ Educational project from organization «School 21 and the National Research Tomsk State University, TSU.
+ 
  <h3>Tasks</h3>
  
 | No. | File name             | Task                                                                        | Status |
