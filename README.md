@@ -18,4 +18,4 @@
 
 | No. | File name             | Task                                                                        | Status |
 | --- | ----------------------| --------------------------------------------------------------------------- | ------ |
-| 3   | «Authorization_test»  | Add 5 test scenarios of the authorization form to the document. Test the authorization form according to the created scenarios. Before each scenario, add the line "Passed successfully" or "Failed. Error found: `error description`".           | ✅     |
+| 1   | «WEB-Testing_checklist» | Основные виды тестирования веб-приложений и их особенности.               | ✅     |
